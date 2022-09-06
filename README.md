@@ -2,6 +2,17 @@
 
 A curated list of awesome [Keras](http://keras.io/) projects, libraries and resources. Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation.
 
+## Contents
+
+<!--lint ignore awesome-toc alphabetize-lists-->
+- [Core Libraries](#core-libraries)
+- [Frameworks](#frameworks)
+- [Network Visualisation](#networkvisualization)
+- [Examples/Notebooks](#examplesnotebooks)
+- [Documentation](#documentation)
+
+---
+
 ## Core Libraries
 
 - [keras](https://github.com/keras-team/keras) - Deep learning for humans.
