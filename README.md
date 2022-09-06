@@ -17,6 +17,7 @@ A curated list of awesome [Keras](http://keras.io/) projects, libraries and reso
 - [Network Visualisation](#networkvisualization)
 - [Examples/Notebooks](#examplesnotebooks)
 - [Documentation](#documentation)
+- [Community Resources](#community-resources)
 
 ---
 
@@ -58,3 +59,14 @@ A curated list of awesome [Keras](http://keras.io/) projects, libraries and reso
 ## Documentation
 
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - A collection of deep learning/ML cheat sheets for ([Keras cheatsheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Keras.jpg)).
+
+## Community Resources
+
+- GitHub - Search: [keras](https://github.com/search?type=Repositories&q=keras)
+- GitHub - Topics: [keras](https://github.com/topics/keras), [tensorflow](https://github.com/topics/tensorflow), [neural-networks](https://github.com/topics/neural-networks)
+- Gitter - [Keras Gitter Chatroom](https://gitter.im/Keras-io/Lobby)
+- [kandi Kits Topic](https://kandi.openweaver.com/explore/keras) - Discover popular Keras libraries, top authors, trending project kits, discussions, tutorials & learning resources.
+- Mailing Lists - [Keras users mailing list](https://groups.google.com/g/keras-users)
+- PyPI - [``Keras``](https://pypi.org/project/keras/)
+is the PyPI Keras project.
+- Stack Overflow - Tags: [keras](https://stackoverflow.com/questions/tagged/keras?tab=Votes)
