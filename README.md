@@ -16,11 +16,13 @@ A curated list of awesome [Keras](http://keras.io/) projects, libraries and reso
 
 ## Core Libraries
 
+<!--lint disable alphabetize-lists-->
 - [keras](https://github.com/keras-team/keras) - Deep learning for humans.
 - [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning.
 - [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans.
 - [keras-cv](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras.
 - [keras-nlp](https://github.com/keras-team/keras-nlp) - Development environment with seamless data transmission from one language to another.
+<!--lint enable alphabetize-lists-->
 
 ## Frameworks
 
