@@ -34,7 +34,8 @@ A curated list of awesome [Keras](http://keras.io/) projects, libraries and reso
 
 ## Examples/Notebooks
 
-- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - A collection of data science notebooks (dedicated [Keras section](https://github.com/donnemartin/data-science-ipython-notebooks#keras-tutorials)).
+<!--lint disable double-link-->
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - A collection of data science notebooks (dedicated [Keras section](https://github.com/donnemartin/data-science-ipython-notebooks#keras-tutorials)).  <!--lint enable double-link-->
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - An implementation of Mask R-CNN for object detection and segmentation on Keras and TensorFlow.
 - [D2L.ai](https://github.com/d2l-ai/d2l-en) - An interactive deep learning book with multi-framework code, math, and discussions.
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
