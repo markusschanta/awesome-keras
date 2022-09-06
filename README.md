@@ -3,6 +3,12 @@
 
 A curated list of awesome [Keras](http://keras.io/) projects, libraries and resources. Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation.
 
+<div align="center" style="border-bottom: 0px;">
+	<br>
+	<img width="640" src="https://raw.githubusercontent.com/markusschanta/awesome-keras/main/media/logo.png" alt="Awesome Keras logo">
+	<br>
+</div>
+
 ## Contents
 
 <!--lint ignore awesome-toc alphabetize-lists-->
