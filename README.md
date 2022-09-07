@@ -7,6 +7,8 @@ A curated list of awesome [Keras](http://keras.io/) projects, libraries and reso
 	<br>
 	<img width="640" src="https://raw.githubusercontent.com/markusschanta/awesome-keras/main/media/logo.png" alt="Awesome Keras logo">
 	<br>
+	
+🎉 This project is brand new and currently being incubated. Your 🤝 **contributions** 🤝 and ⭐️ **stars** ⭐️ are much appreciated! 🎉
 </div>
 
 ## Contents
