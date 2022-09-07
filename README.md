@@ -44,6 +44,7 @@ A curated list of awesome [Keras](http://keras.io/) projects, libraries and reso
 - [MMdnn](https://github.com/microsoft/MMdnn) - A cross-framework tool to convert, visualize and diagnose deep learning models.
 - [ncnn](https://github.com/Tencent/ncnn) - A high-performance neural network framework optimized for mobile platforms.
 - [onnx](https://github.com/onnx/onnx) - An open standard for machine learning interoperability.
+- [wandb](https://github.com/wandb/wandb) - A tool for visualizing and tracking your machine learning experiments.
 
 ## Network Visualisation
 
@@ -61,7 +62,9 @@ A curated list of awesome [Keras](http://keras.io/) projects, libraries and reso
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - A implementation to scale images using residual dense and adversarial networks.
 - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - A Keras implementation of Generative Adversarial Networks.
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - An implementation of Mask R-CNN for object detection and segmentation on Keras and TensorFlow.
+- [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - A collection of resources relating to deep learning with satellite & aerial imagery.
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [sketch-code](https://github.com/ashnkumar/sketch-code) - A Keras model to generate HTML code from hand-drawn website mockups.
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - A library that allows simple training of text-generating neural networks with a few lines of code.
 - [unet](https://github.com/zhixuhao/unet) - An implementation of U-Net using Keras.
 
